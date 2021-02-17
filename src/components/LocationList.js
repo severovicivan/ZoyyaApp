@@ -5,7 +5,7 @@ import { useGlobalContext } from '../context'
 
 const LocationList = () => {
   const {locations,loading} = useGlobalContext();
-  console.log(locations);
+ 
   if(loading){
     return <Loading />
   }
@@ -19,9 +19,14 @@ const LocationList = () => {
   }
 
   return (
-    <div>
-      <h2>Location list component</h2>
-    </div>
+    <section className="section">
+      <h2 className="section-title">Lokacije</h2>
+      <div className="locations-center">
+        {locations.map((item) => {
+          return <Location key={item.id} {...item} />
+        })}
+      </div>
+    </section>
   )
 }
 

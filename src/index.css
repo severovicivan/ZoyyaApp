@@ -207,7 +207,7 @@ Error
 }
 /* 
 ====== 
-Cocktails List 
+Locations List 
 ======
 */
 
@@ -222,7 +222,7 @@ Cocktails List
   margin-bottom: 3.5rem;
   margin-top: 1rem;
 }
-.cocktails-center {
+.locations-center {
   width: var(--smallWidth);
   margin: 0 auto;
   max-width: var(--fullWidth);
@@ -232,7 +232,7 @@ Cocktails List
   /* align-items: start; */
 }
 @media screen and (min-width: 576px) {
-  .cocktails-center {
+  .locations-center {
     grid-template-columns: repeat(auto-fill, minmax(338.8px, 1fr));
   }
 }

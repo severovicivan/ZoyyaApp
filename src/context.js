@@ -1,9 +1,7 @@
 import React, { useState, useContext, useEffect } from 'react'
 import { useCallback } from 'react'
-import locations1 from './database/locations.json'
+import all_locations from './database/locations.json'
 
-const all_locations = locations1
-const url = 'https://www.thecocktaildb.com/api/json/v1/1/search.php?s='
 const AppContext = React.createContext()
 
 const AppProvider = ({ children }) => {
@@ -21,7 +19,6 @@ const AppProvider = ({ children }) => {
       // const response = await fetch(`${url}${searchTerm}`)
       // const data = await response.json()
       const data = newArray;
-      // console.log(data);
       // const {filtered_locations} = data;
       if(data){
         const newLocations = data.map((item)=>{
