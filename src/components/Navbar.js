@@ -5,7 +5,7 @@ import logo from '../logo.svg'
 const Navbar = () => {
   return (
     <div>
-      <h2>navbar component</h2>
+      <h2>Navbar component</h2>
     </div>
   )
 }
