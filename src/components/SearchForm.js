@@ -15,9 +15,14 @@ const SearchForm = () => {
     setSearchTerm(searchValue.current.value)
   }
 
+  // Disable page refresh on hitting Enter
+  const handleSubmit = (e) => {
+    e.preventDefault()
+  }
+
   return (
     <section className="section search">
-      <form className="search-form">
+      <form className="search-form" onSubmit={handleSubmit}>
         <div className="form-control">
           <label htmlFor="name"> Pronađi lokaciju </label>
           <input type="text" id="name" 
