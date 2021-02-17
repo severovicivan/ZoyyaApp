@@ -330,6 +330,10 @@ a:hover {
   text-transform: capitalize !important;
 }
 
+.normal-case {
+  text-transform: none !important;
+}
+
 .location-section {
   text-align: center;
 }

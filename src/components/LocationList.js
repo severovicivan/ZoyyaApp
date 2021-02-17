@@ -20,7 +20,7 @@ const LocationList = () => {
 
   return (
     <section className="section">
-      <h2 className="section-title">Lokacije</h2>
+      <h2 className="section-title">Dostupne usluge</h2>
       <div className="locations-center">
         {locations.map((item) => {
           return <Location key={item.id} {...item} />

@@ -5,7 +5,10 @@ const About = () => {
     <section className="section about-section">
       <h1 className="section-title">Dokumentacija</h1>
       <p>
-        Tralala
+        Upute za korištenje aplikacije možete naći na &nbsp;
+        <a href="https://github.com/severovicivan/ZoyyaApp">
+          <u>GitHub Repozitoriju</u>
+        </a>
       </p>
     </section>
   )

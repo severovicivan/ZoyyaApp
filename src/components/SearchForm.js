@@ -24,7 +24,9 @@ const SearchForm = () => {
     <section className="section search">
       <form className="search-form" onSubmit={handleSubmit}>
         <div className="form-control">
-          <label htmlFor="name"> Pronađi lokaciju </label>
+          <label htmlFor="name" className="normal-case">
+            Pronađi lokaciju za rezervaciju termina
+          </label>
           <input type="text" id="name" 
           ref={searchValue} onChange={searchLocation} />
         </div>

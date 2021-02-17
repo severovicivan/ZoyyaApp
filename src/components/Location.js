@@ -9,11 +9,11 @@ const Location = ({image,name,id,address,category}) => {
       </div>
       <div className="location-footer">
         <h4>{category}</h4>
-        <h5>{name}</h5>
+        <h5><i>{name}</i></h5>
         <p>{address}</p>
         <Link to={`/location/${id}`} 
           className="btn btn-primary btn-details">
-            See Location
+            Rezerviraj termin
         </Link>
       </div>
     </article>
