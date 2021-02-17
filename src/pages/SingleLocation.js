@@ -42,6 +42,14 @@ const SingleLocation = () => {
     </h2>
   }
 
+  var category = ''
+
+  if (location.category) {
+    category = location.category.toLowerCase()
+  } else {
+    category = 'Ostalo'
+  }
+
   return (
     <section className="section location-section">
       <Link to="/" className="btn btn-primary">
@@ -50,6 +58,41 @@ const SingleLocation = () => {
       <h2 className="section-title">{location.name}</h2>
       <div className="place">
         <img src={location.imageUrl} alt={location.name}/>
+        <div className="place-info">
+          <p>
+            {/* <span className="place-data">O nama:</span> */}
+            <p className="desc">{location.description}</p>
+          </p>
+          <p className="camel-case">
+            <span className="place-data">Kategorija:</span>
+            {category}
+          </p>
+          <p>
+            <span className="place-data">Adresa:</span>
+            {/* http://maps.google.com/?q=Biankinijeva ul. 13, Zagreb, 10000 */}
+            <a href={`http://maps.google.com/?q=
+            ${location.address},
+            ${location.zipCode},
+            ${location.city}`}>
+              {location.address + ', ' +
+              location.zipCode + ' ' + 
+              location.city}
+            </a>
+          </p>
+          <p>
+            <span className="place-data">Email:</span>
+            <a href={`mailto:${location.email}
+              ?subject=Rezervacija%20termina`}>
+              {location.email}
+            </a>
+          </p>
+          <p>
+            <span className="place-data">Telefon:</span>
+            <a href={`tel:+${location.mobilePhone}`}>
+              {location.mobilePhone}
+            </a>
+          </p>
+        </div>
       </div>
     </section>
   )

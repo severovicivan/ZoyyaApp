@@ -318,6 +318,18 @@ Location
 ======
 */
 
+a:hover {
+  color: var(--primaryColor);
+}
+
+.desc {
+  font-weight: lighter !important;
+}
+
+.camel-case {
+  text-transform: capitalize !important;
+}
+
 .location-section {
   text-align: center;
 }
@@ -332,7 +344,7 @@ Location
 }
 .place p {
   font-weight: bold;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   line-height: 1.8;
 }
 .place span {
