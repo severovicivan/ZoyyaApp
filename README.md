@@ -1,4 +1,4 @@
-# zoyya-code-exercise
+# Job application project for [Zoyya](https://www.zoyya.com)
 
 * [Getting started](#getting-started)
 * [About this repo](#about-this-repo)
@@ -9,7 +9,7 @@
 1. Install [Node.js](https://nodejs.org/en/) 
 2. Clone this repo: `git clone git@github.com:ZoyyaApp/zoyya-code-exercise.git`
 3. Install dependencies: `cd zoyya-code-exercise && npm install`
-4. Start the app with `npm run`
+4. Start the app with `npm start`
 
 Now you'll have a local app running! Follow along to the next section
 to learn more about how this project is organized.
