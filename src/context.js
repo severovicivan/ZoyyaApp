@@ -6,15 +6,15 @@ const AppContext = React.createContext()
 
 const AppProvider = ({ children }) => {
   const [loading,setLoading] = useState(true)
-  const [searchTerm,setSearchTerm] = useState('tre')
+  const [searchTerm,setSearchTerm] = useState('')
   const [locations,setLocations] = useState([])
-  const [selectedLocation, setSelectedLocation] = useState(null)
+  // const [selectedLocation, setSelectedLocation] = useState(null)
 
   const fetchLocations = async() => {
     setLoading(true)
     try {
       var newArray = all_locations.filter(function (el) {
-        return (el.name).includes(searchTerm)
+        return ((el.name).toLowerCase()).includes(searchTerm.toLowerCase())
       });
       // const response = await fetch(`${url}${searchTerm}`)
       // const data = await response.json()
