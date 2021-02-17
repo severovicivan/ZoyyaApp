@@ -1,0 +1,1784 @@
+[
+    {
+      "id": "22",
+      "name": "Pets Only-vrtić za pse",
+      "address": "Biankinijeva ul. 13",
+      "city": "Zagreb",
+      "orgId": "PetsOnly",
+      "imageUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/cyInXWKm9zXm0ltiMh4w9_Logo.jpg",
+      "description": "Čuvamo ljubimce u Zagrebu i okolici u stanu na više lokacija, ljubimce također dolazimo čuvati kod VAS! ",
+      "workShifts": [
+        {
+          "name": "Jednokratno",
+          "openHours": [
+            {
+              "day": 0,
+              "dayName": "PONEDJELJAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 1,
+              "dayName": "UTORAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 2,
+              "dayName": "SRIJEDA",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 3,
+              "dayName": "ČETVRTAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 4,
+              "dayName": "PETAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 5,
+              "dayName": "SUBOTA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": false
+            },
+            {
+              "day": 6,
+              "dayName": "NEDJELJA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": true
+            }
+          ]
+        }
+      ],
+      "mobilePhone": "+385 99 4521 771",
+      "phone": "+23 077 266",
+      "email": "ivana@zoyya.com",
+      "zipCode": "10000",
+      "teamMembers": [
+        {
+          "id": "1",
+          "name": "Lars Urlich",
+          "code": "lars@naruci.me",
+          "firstName": "Lars",
+          "lastName": "Urlich",
+          "email": "lars@naruci.me",
+          "mobilePhone": "+385952000217",
+          "nickName": "Niccolo",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "66",
+              "name": "Frizer"
+            }
+          ],
+          "user": {
+            "id": "1",
+            "firstName": "Lars",
+            "lastName": "Urlich",
+            "address": "Mladena Fiolića 12 i",
+            "email": "lars@naruci.me",
+            "role": "OWNER",
+            "phone": "",
+            "gender": "Male",
+            "nickName": "Lars",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/RXIs8fhXoRUdQ2VriOS0P_000_Intercom.png"
+          }
+        },
+        {
+          "id": "13",
+          "name": "Mario Brada",
+          "code": "nikola.smircic2@gmail.com",
+          "firstName": "Mario",
+          "lastName": "Brada",
+          "email": "nikola.smircic2@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "Mario",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "67",
+              "name": "Kozmetičar"
+            }
+          ],
+          "user": {
+            "id": "29",
+            "firstName": "Buba",
+            "lastName": "Brada",
+            "address": null,
+            "email": null,
+            "role": "USER",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": null,
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/08k07AynfcU7pCnd1YOpE_003.PNG"
+          }
+        },
+        {
+          "id": "46",
+          "name": "Josip Barber",
+          "code": "nikola.smircic+01@gmail.com",
+          "firstName": "George",
+          "lastName": "Barber",
+          "email": "nikola.smircic+01@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "George",
+          "role": "ADMIN",
+          "color": "#FF974A",
+          "professions": [
+            {
+              "id": "96",
+              "name": "Barber"
+            }
+          ],
+          "user": {
+            "id": "93",
+            "firstName": "Anita",
+            "lastName": "Barber",
+            "address": "Mladena Fiolića 12",
+            "email": null,
+            "role": "ADMIN",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": "Joža",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/PQ1D0xnaUtwrC0vnGAAzm_009.PNG"
+          }
+        }
+      ],
+      "category": "KUĆNI LJUBIMCI"
+    },
+    {
+      "id": "29",
+      "name": "Pets Only šetanje i obilazak",
+      "address": "Grad Zagreb",
+      "city": "Zagreb",
+      "orgId": "PetsOnly",
+      "imageUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/Gzo4sSvRMNUUsNF430-K3_Logo.jpg",
+      "description": "Šetanje i čuvanje životinja ",
+      "workShifts": [
+        {
+          "name": "Jednokratno",
+          "openHours": [
+            {
+              "day": 0,
+              "dayName": "PONEDJELJAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 1,
+              "dayName": "UTORAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 2,
+              "dayName": "SRIJEDA",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 3,
+              "dayName": "ČETVRTAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 4,
+              "dayName": "PETAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 5,
+              "dayName": "SUBOTA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": false
+            },
+            {
+              "day": 6,
+              "dayName": "NEDJELJA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": true
+            }
+          ]
+        }
+      ],
+      "mobilePhone": "+385 99 4521 771",
+      "phone": "+23 077 266",
+      "email": "ivana@zoyya.com",
+      "zipCode": "10000",
+      "teamMembers": [
+        {
+          "id": "1",
+          "name": "Lars Urlich",
+          "code": "lars@naruci.me",
+          "firstName": "Lars",
+          "lastName": "Urlich",
+          "email": "lars@naruci.me",
+          "mobilePhone": "+385952000217",
+          "nickName": "Niccolo",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "66",
+              "name": "Frizer"
+            }
+          ],
+          "user": {
+            "id": "1",
+            "firstName": "Lars",
+            "lastName": "Urlich",
+            "address": "Mladena Fiolića 12 i",
+            "email": "lars@naruci.me",
+            "role": "OWNER",
+            "phone": "",
+            "gender": "Male",
+            "nickName": "Lars",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/RXIs8fhXoRUdQ2VriOS0P_000_Intercom.png"
+          }
+        },
+        {
+          "id": "13",
+          "name": "Mario Brada",
+          "code": "nikola.smircic2@gmail.com",
+          "firstName": "Mario",
+          "lastName": "Brada",
+          "email": "nikola.smircic2@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "Mario",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "67",
+              "name": "Kozmetičar"
+            }
+          ],
+          "user": {
+            "id": "29",
+            "firstName": "Buba",
+            "lastName": "Brada",
+            "address": null,
+            "email": null,
+            "role": "USER",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": null,
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/08k07AynfcU7pCnd1YOpE_003.PNG"
+          }
+        },
+        {
+          "id": "46",
+          "name": "Josip Barber",
+          "code": "nikola.smircic+01@gmail.com",
+          "firstName": "George",
+          "lastName": "Barber",
+          "email": "nikola.smircic+01@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "George",
+          "role": "ADMIN",
+          "color": "#FF974A",
+          "professions": [
+            {
+              "id": "96",
+              "name": "Barber"
+            }
+          ],
+          "user": {
+            "id": "93",
+            "firstName": "Anita",
+            "lastName": "Barber",
+            "address": "Mladena Fiolića 12",
+            "email": null,
+            "role": "ADMIN",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": "Joža",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/PQ1D0xnaUtwrC0vnGAAzm_009.PNG"
+          }
+        }
+      ],
+      "category": "KUĆNI LJUBIMCI"
+    },
+    {
+      "id": "55",
+      "name": "Implant centar Martinko",
+      "address": "Zagrebačka cesta 126",
+      "city": "Zagreb",
+      "orgId": "Dr.Martinko",
+      "imageUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/Dl9QAWWPvwpcgd8Ob-skA_Martinko800tinyfied.png",
+      "description": "Visoke stope uspješnosti u radu, najnovije tehnike u implantologiji, suvremena tehnologija koju koristimo, stručnjaci koji su tijekom svoje prakse vratili zdrave i lijepe osmijehe brojnim pacijentima, individualan pristup svakom pacijentu, razlozi su zbog kojih smatramo da smo sinonim za najbolju dentalnu implantologiju.",
+      "workShifts": [
+        {
+          "name": "Jednokratno",
+          "openHours": [
+            {
+              "day": 0,
+              "dayName": "PONEDJELJAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 1,
+              "dayName": "UTORAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 2,
+              "dayName": "SRIJEDA",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 3,
+              "dayName": "ČETVRTAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 4,
+              "dayName": "PETAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 5,
+              "dayName": "SUBOTA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": false
+            },
+            {
+              "day": 6,
+              "dayName": "NEDJELJA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": true
+            }
+          ]
+        }
+      ],
+      "mobilePhone": "+385 99 4521 771",
+      "phone": "+23 077 266",
+      "email": "ivana@zoyya.com",
+      "zipCode": "10000",
+      "teamMembers": [
+        {
+          "id": "1",
+          "name": "Lars Urlich",
+          "code": "lars@naruci.me",
+          "firstName": "Lars",
+          "lastName": "Urlich",
+          "email": "lars@naruci.me",
+          "mobilePhone": "+385952000217",
+          "nickName": "Niccolo",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "66",
+              "name": "Frizer"
+            }
+          ],
+          "user": {
+            "id": "1",
+            "firstName": "Lars",
+            "lastName": "Urlich",
+            "address": "Mladena Fiolića 12 i",
+            "email": "lars@naruci.me",
+            "role": "OWNER",
+            "phone": "",
+            "gender": "Male",
+            "nickName": "Lars",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/RXIs8fhXoRUdQ2VriOS0P_000_Intercom.png"
+          }
+        },
+        {
+          "id": "13",
+          "name": "Mario Brada",
+          "code": "nikola.smircic2@gmail.com",
+          "firstName": "Mario",
+          "lastName": "Brada",
+          "email": "nikola.smircic2@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "Mario",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "67",
+              "name": "Kozmetičar"
+            }
+          ],
+          "user": {
+            "id": "29",
+            "firstName": "Buba",
+            "lastName": "Brada",
+            "address": null,
+            "email": null,
+            "role": "USER",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": null,
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/08k07AynfcU7pCnd1YOpE_003.PNG"
+          }
+        },
+        {
+          "id": "46",
+          "name": "Josip Barber",
+          "code": "nikola.smircic+01@gmail.com",
+          "firstName": "George",
+          "lastName": "Barber",
+          "email": "nikola.smircic+01@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "George",
+          "role": "ADMIN",
+          "color": "#FF974A",
+          "professions": [
+            {
+              "id": "96",
+              "name": "Barber"
+            }
+          ],
+          "user": {
+            "id": "93",
+            "firstName": "Anita",
+            "lastName": "Barber",
+            "address": "Mladena Fiolića 12",
+            "email": null,
+            "role": "ADMIN",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": "Joža",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/PQ1D0xnaUtwrC0vnGAAzm_009.PNG"
+          }
+        }
+      ],
+      "category": "STOMATOLOG"
+    },
+    {
+      "id": "56",
+      "name": "Biotrening Fitness",
+      "address": "Maksimirska 8 (Kvaternik Plaza)",
+      "city": "Zagreb",
+      "orgId": "Biotrening",
+      "imageUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/dco3sZRsv6DENNOBwU4Io_fold-fitness.jpg",
+      "description": "Naš stručni tim trenera pomoći će Vam da bolje upoznate svoje tijelo, a potom pažljivo planiranim i programiranim treningom izgradite najbolju verziju sebe.",
+      "workShifts": [
+        {
+          "name": "Jednokratno",
+          "openHours": [
+            {
+              "day": 0,
+              "dayName": "PONEDJELJAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 1,
+              "dayName": "UTORAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 2,
+              "dayName": "SRIJEDA",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 3,
+              "dayName": "ČETVRTAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 4,
+              "dayName": "PETAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 5,
+              "dayName": "SUBOTA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": false
+            },
+            {
+              "day": 6,
+              "dayName": "NEDJELJA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": true
+            }
+          ]
+        }
+      ],
+      "mobilePhone": "+385 99 4521 771",
+      "phone": "+23 077 266",
+      "email": "ivana@zoyya.com",
+      "zipCode": "10000",
+      "teamMembers": [
+        {
+          "id": "1",
+          "name": "Lars Urlich",
+          "code": "lars@naruci.me",
+          "firstName": "Lars",
+          "lastName": "Urlich",
+          "email": "lars@naruci.me",
+          "mobilePhone": "+385952000217",
+          "nickName": "Niccolo",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "66",
+              "name": "Frizer"
+            }
+          ],
+          "user": {
+            "id": "1",
+            "firstName": "Lars",
+            "lastName": "Urlich",
+            "address": "Mladena Fiolića 12 i",
+            "email": "lars@naruci.me",
+            "role": "OWNER",
+            "phone": "",
+            "gender": "Male",
+            "nickName": "Lars",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/RXIs8fhXoRUdQ2VriOS0P_000_Intercom.png"
+          }
+        },
+        {
+          "id": "13",
+          "name": "Mario Brada",
+          "code": "nikola.smircic2@gmail.com",
+          "firstName": "Mario",
+          "lastName": "Brada",
+          "email": "nikola.smircic2@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "Mario",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "67",
+              "name": "Kozmetičar"
+            }
+          ],
+          "user": {
+            "id": "29",
+            "firstName": "Buba",
+            "lastName": "Brada",
+            "address": null,
+            "email": null,
+            "role": "USER",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": null,
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/08k07AynfcU7pCnd1YOpE_003.PNG"
+          }
+        },
+        {
+          "id": "46",
+          "name": "Josip Barber",
+          "code": "nikola.smircic+01@gmail.com",
+          "firstName": "George",
+          "lastName": "Barber",
+          "email": "nikola.smircic+01@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "George",
+          "role": "ADMIN",
+          "color": "#FF974A",
+          "professions": [
+            {
+              "id": "96",
+              "name": "Barber"
+            }
+          ],
+          "user": {
+            "id": "93",
+            "firstName": "Anita",
+            "lastName": "Barber",
+            "address": "Mladena Fiolića 12",
+            "email": null,
+            "role": "ADMIN",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": "Joža",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/PQ1D0xnaUtwrC0vnGAAzm_009.PNG"
+          }
+        }
+      ],
+      "category": "FITNESS"
+    },
+    {
+      "id": "57",
+      "name": "Biotrening Poliklinika",
+      "address": "Maksimirska 8 (Kvaternik Plaza)",
+      "city": "Zagreb",
+      "orgId": "Biotrening",
+      "imageUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/Yr_CtnFVNTMp3MnQzLtA6_fold-poliklinika.jpg",
+      "description": "Specijalistički pregledi ortopeda, fizioterapeutski pregledi, fizikalna terapija i rehabilitacija namijenjena rekreativcima, sportašima i svim građanima koji žele brigu o svom zdravlju i kvalitetu života podići na novu, višu razinu.",
+      "workShifts": [
+        {
+          "name": "Jednokratno",
+          "openHours": [
+            {
+              "day": 0,
+              "dayName": "PONEDJELJAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 1,
+              "dayName": "UTORAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 2,
+              "dayName": "SRIJEDA",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 3,
+              "dayName": "ČETVRTAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 4,
+              "dayName": "PETAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 5,
+              "dayName": "SUBOTA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": false
+            },
+            {
+              "day": 6,
+              "dayName": "NEDJELJA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": true
+            }
+          ]
+        }
+      ],
+      "mobilePhone": "+385 99 4521 771",
+      "phone": "+23 077 266",
+      "email": "ivana@zoyya.com",
+      "zipCode": "10000",
+      "teamMembers": [
+        {
+          "id": "1",
+          "name": "Lars Urlich",
+          "code": "lars@naruci.me",
+          "firstName": "Lars",
+          "lastName": "Urlich",
+          "email": "lars@naruci.me",
+          "mobilePhone": "+385952000217",
+          "nickName": "Niccolo",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "66",
+              "name": "Frizer"
+            }
+          ],
+          "user": {
+            "id": "1",
+            "firstName": "Lars",
+            "lastName": "Urlich",
+            "address": "Mladena Fiolića 12 i",
+            "email": "lars@naruci.me",
+            "role": "OWNER",
+            "phone": "",
+            "gender": "Male",
+            "nickName": "Lars",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/RXIs8fhXoRUdQ2VriOS0P_000_Intercom.png"
+          }
+        },
+        {
+          "id": "13",
+          "name": "Mario Brada",
+          "code": "nikola.smircic2@gmail.com",
+          "firstName": "Mario",
+          "lastName": "Brada",
+          "email": "nikola.smircic2@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "Mario",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "67",
+              "name": "Kozmetičar"
+            }
+          ],
+          "user": {
+            "id": "29",
+            "firstName": "Buba",
+            "lastName": "Brada",
+            "address": null,
+            "email": null,
+            "role": "USER",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": null,
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/08k07AynfcU7pCnd1YOpE_003.PNG"
+          }
+        },
+        {
+          "id": "46",
+          "name": "Josip Barber",
+          "code": "nikola.smircic+01@gmail.com",
+          "firstName": "George",
+          "lastName": "Barber",
+          "email": "nikola.smircic+01@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "George",
+          "role": "ADMIN",
+          "color": "#FF974A",
+          "professions": [
+            {
+              "id": "96",
+              "name": "Barber"
+            }
+          ],
+          "user": {
+            "id": "93",
+            "firstName": "Anita",
+            "lastName": "Barber",
+            "address": "Mladena Fiolića 12",
+            "email": null,
+            "role": "ADMIN",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": "Joža",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/PQ1D0xnaUtwrC0vnGAAzm_009.PNG"
+          }
+        }
+      ],
+      "category": "ZDRAVSTVENA USTANOVA"
+    },
+    {
+      "id": "58",
+      "name": "Brlas Kinesis House",
+      "address": "Trg Krešimira Ćosića 11 (Dom sportova)",
+      "city": "Zagreb",
+      "orgId": "BrlasKinesisHouse",
+      "imageUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/JX2c3O8fbdeOS8SkXr_sx_BrlasKinesisWorks.jpg",
+      "description": "Vaš put ka zdravijem životu počinje ovdje. Ljudsko tijelo je stvoreno da se kreće, pa je u današnje vrijeme pretežno sjedilačkog tempa života izuzetno bitno vježbati barem 2-3 puta tjedno, kako bismo održavali naše tijelo i duh zdravima. Mi smo tu da vas motiviramo, usmjerimo i vodimo kroz taj proces.",
+      "workShifts": [
+        {
+          "name": "Jednokratno",
+          "openHours": [
+            {
+              "day": 0,
+              "dayName": "PONEDJELJAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 1,
+              "dayName": "UTORAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 2,
+              "dayName": "SRIJEDA",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 3,
+              "dayName": "ČETVRTAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 4,
+              "dayName": "PETAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 5,
+              "dayName": "SUBOTA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": false
+            },
+            {
+              "day": 6,
+              "dayName": "NEDJELJA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": true
+            }
+          ]
+        }
+      ],
+      "mobilePhone": "+385 99 4521 771",
+      "phone": "+23 077 266",
+      "email": "ivana@zoyya.com",
+      "zipCode": "10000",
+      "teamMembers": [
+        {
+          "id": "1",
+          "name": "Lars Urlich",
+          "code": "lars@naruci.me",
+          "firstName": "Lars",
+          "lastName": "Urlich",
+          "email": "lars@naruci.me",
+          "mobilePhone": "+385952000217",
+          "nickName": "Niccolo",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "66",
+              "name": "Frizer"
+            }
+          ],
+          "user": {
+            "id": "1",
+            "firstName": "Lars",
+            "lastName": "Urlich",
+            "address": "Mladena Fiolića 12 i",
+            "email": "lars@naruci.me",
+            "role": "OWNER",
+            "phone": "",
+            "gender": "Male",
+            "nickName": "Lars",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/RXIs8fhXoRUdQ2VriOS0P_000_Intercom.png"
+          }
+        },
+        {
+          "id": "13",
+          "name": "Mario Brada",
+          "code": "nikola.smircic2@gmail.com",
+          "firstName": "Mario",
+          "lastName": "Brada",
+          "email": "nikola.smircic2@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "Mario",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "67",
+              "name": "Kozmetičar"
+            }
+          ],
+          "user": {
+            "id": "29",
+            "firstName": "Buba",
+            "lastName": "Brada",
+            "address": null,
+            "email": null,
+            "role": "USER",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": null,
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/08k07AynfcU7pCnd1YOpE_003.PNG"
+          }
+        },
+        {
+          "id": "46",
+          "name": "Josip Barber",
+          "code": "nikola.smircic+01@gmail.com",
+          "firstName": "George",
+          "lastName": "Barber",
+          "email": "nikola.smircic+01@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "George",
+          "role": "ADMIN",
+          "color": "#FF974A",
+          "professions": [
+            {
+              "id": "96",
+              "name": "Barber"
+            }
+          ],
+          "user": {
+            "id": "93",
+            "firstName": "Anita",
+            "lastName": "Barber",
+            "address": "Mladena Fiolića 12",
+            "email": null,
+            "role": "ADMIN",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": "Joža",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/PQ1D0xnaUtwrC0vnGAAzm_009.PNG"
+          }
+        }
+      ],
+      "category": "FITNESS"
+    },
+    {
+      "id": "80",
+      "name": "SVIM",
+      "address": "Pavla Hatza 4",
+      "city": "Zagreb",
+      "orgId": "SVIM",
+      "imageUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/xSy7hTqFHxZsFCU1stlsG_LogoSVIM.png",
+      "description": "SVIM tim je jedini tim profesionalaca te vrste  u Hrvatskoj koji  kroz edukacije vlasnika i zaposlenika,  konzultacije, kroz grupna i individualna savjetovanja i radionice te analize postojećeg stanja daje idejna rješenja i  prijedlog za reorganizaciju poslovanja;  uz sve potrebne vještine i alate za funkcionalan rad salona.",
+      "workShifts": [
+        {
+          "name": "Jednokratno",
+          "openHours": [
+            {
+              "day": 0,
+              "dayName": "PONEDJELJAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 1,
+              "dayName": "UTORAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 2,
+              "dayName": "SRIJEDA",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 3,
+              "dayName": "ČETVRTAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 4,
+              "dayName": "PETAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 5,
+              "dayName": "SUBOTA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": false
+            },
+            {
+              "day": 6,
+              "dayName": "NEDJELJA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": true
+            }
+          ]
+        }
+      ],
+      "mobilePhone": "+385 99 4521 771",
+      "phone": "+23 077 266",
+      "email": "ivana@zoyya.com",
+      "zipCode": "10000",
+      "teamMembers": [
+        {
+          "id": "1",
+          "name": "Lars Urlich",
+          "code": "lars@naruci.me",
+          "firstName": "Lars",
+          "lastName": "Urlich",
+          "email": "lars@naruci.me",
+          "mobilePhone": "+385952000217",
+          "nickName": "Niccolo",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "66",
+              "name": "Frizer"
+            }
+          ],
+          "user": {
+            "id": "1",
+            "firstName": "Lars",
+            "lastName": "Urlich",
+            "address": "Mladena Fiolića 12 i",
+            "email": "lars@naruci.me",
+            "role": "OWNER",
+            "phone": "",
+            "gender": "Male",
+            "nickName": "Lars",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/RXIs8fhXoRUdQ2VriOS0P_000_Intercom.png"
+          }
+        },
+        {
+          "id": "13",
+          "name": "Mario Brada",
+          "code": "nikola.smircic2@gmail.com",
+          "firstName": "Mario",
+          "lastName": "Brada",
+          "email": "nikola.smircic2@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "Mario",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "67",
+              "name": "Kozmetičar"
+            }
+          ],
+          "user": {
+            "id": "29",
+            "firstName": "Buba",
+            "lastName": "Brada",
+            "address": null,
+            "email": null,
+            "role": "USER",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": null,
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/08k07AynfcU7pCnd1YOpE_003.PNG"
+          }
+        },
+        {
+          "id": "46",
+          "name": "Josip Barber",
+          "code": "nikola.smircic+01@gmail.com",
+          "firstName": "George",
+          "lastName": "Barber",
+          "email": "nikola.smircic+01@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "George",
+          "role": "ADMIN",
+          "color": "#FF974A",
+          "professions": [
+            {
+              "id": "96",
+              "name": "Barber"
+            }
+          ],
+          "user": {
+            "id": "93",
+            "firstName": "Anita",
+            "lastName": "Barber",
+            "address": "Mladena Fiolića 12",
+            "email": null,
+            "role": "ADMIN",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": "Joža",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/PQ1D0xnaUtwrC0vnGAAzm_009.PNG"
+          }
+        }
+      ],
+      "category": "SAVJETOVANJE"
+    },
+    {
+      "id": "84",
+      "name": "Dora98",
+      "address": "Ozaljska 110",
+      "city": "Zagreb",
+      "orgId": "yklrk",
+      "imageUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/3Wl2KBvjO9q9FdvS_OExJ_600x315.png",
+      "description": "U užurbanom ritmu u kojem danas živimo, svi trebamo taj neki ugodan kutak za sebe. Mjesto na kojem ćemo se opustiti i prepustiti profesionalnim rukama, proizvodima i uređajima, tretmanima “iskrojenima” prema našim potrebama. DORA 98 je mnogima “taj kutak” i nadamo se da će biti i vaš izbor.",
+      "workShifts": [
+        {
+          "name": "Jednokratno",
+          "openHours": [
+            {
+              "day": 0,
+              "dayName": "PONEDJELJAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 1,
+              "dayName": "UTORAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 2,
+              "dayName": "SRIJEDA",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 3,
+              "dayName": "ČETVRTAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 4,
+              "dayName": "PETAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 5,
+              "dayName": "SUBOTA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": false
+            },
+            {
+              "day": 6,
+              "dayName": "NEDJELJA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": true
+            }
+          ]
+        }
+      ],
+      "mobilePhone": "+385 99 4521 771",
+      "phone": "+23 077 266",
+      "email": "ivana@zoyya.com",
+      "zipCode": "10000",
+      "teamMembers": [
+        {
+          "id": "1",
+          "name": "Lars Urlich",
+          "code": "lars@naruci.me",
+          "firstName": "Lars",
+          "lastName": "Urlich",
+          "email": "lars@naruci.me",
+          "mobilePhone": "+385952000217",
+          "nickName": "Niccolo",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "66",
+              "name": "Frizer"
+            }
+          ],
+          "user": {
+            "id": "1",
+            "firstName": "Lars",
+            "lastName": "Urlich",
+            "address": "Mladena Fiolića 12 i",
+            "email": "lars@naruci.me",
+            "role": "OWNER",
+            "phone": "",
+            "gender": "Male",
+            "nickName": "Lars",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/RXIs8fhXoRUdQ2VriOS0P_000_Intercom.png"
+          }
+        },
+        {
+          "id": "13",
+          "name": "Mario Brada",
+          "code": "nikola.smircic2@gmail.com",
+          "firstName": "Mario",
+          "lastName": "Brada",
+          "email": "nikola.smircic2@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "Mario",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "67",
+              "name": "Kozmetičar"
+            }
+          ],
+          "user": {
+            "id": "29",
+            "firstName": "Buba",
+            "lastName": "Brada",
+            "address": null,
+            "email": null,
+            "role": "USER",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": null,
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/08k07AynfcU7pCnd1YOpE_003.PNG"
+          }
+        },
+        {
+          "id": "46",
+          "name": "Josip Barber",
+          "code": "nikola.smircic+01@gmail.com",
+          "firstName": "George",
+          "lastName": "Barber",
+          "email": "nikola.smircic+01@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "George",
+          "role": "ADMIN",
+          "color": "#FF974A",
+          "professions": [
+            {
+              "id": "96",
+              "name": "Barber"
+            }
+          ],
+          "user": {
+            "id": "93",
+            "firstName": "Anita",
+            "lastName": "Barber",
+            "address": "Mladena Fiolića 12",
+            "email": null,
+            "role": "ADMIN",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": "Joža",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/PQ1D0xnaUtwrC0vnGAAzm_009.PNG"
+          }
+        }
+      ],
+      "category": "SALON LJEPOTE"
+    },
+    {
+      "id": "114",
+      "name": "Tenis klub As",
+      "address": "Trg Bana Jelačića 1",
+      "city": "Zagreb",
+      "orgId": "arxrv",
+      "imageUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/uCWzJW606JfUYCBJ_AyFY_Tenis.jpg",
+      "description": "Vanjski i unutarnji teniski terni",
+      "workShifts": [
+        {
+          "name": "Jednokratno",
+          "openHours": [
+            {
+              "day": 0,
+              "dayName": "PONEDJELJAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 1,
+              "dayName": "UTORAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 2,
+              "dayName": "SRIJEDA",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 3,
+              "dayName": "ČETVRTAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 4,
+              "dayName": "PETAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 5,
+              "dayName": "SUBOTA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": false
+            },
+            {
+              "day": 6,
+              "dayName": "NEDJELJA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": true
+            }
+          ]
+        }
+      ],
+      "mobilePhone": "+385 99 4521 771",
+      "phone": "+23 077 266",
+      "email": "ivana@zoyya.com",
+      "zipCode": "10000",
+      "teamMembers": [
+        {
+          "id": "1",
+          "name": "Lars Urlich",
+          "code": "lars@naruci.me",
+          "firstName": "Lars",
+          "lastName": "Urlich",
+          "email": "lars@naruci.me",
+          "mobilePhone": "+385952000217",
+          "nickName": "Niccolo",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "66",
+              "name": "Frizer"
+            }
+          ],
+          "user": {
+            "id": "1",
+            "firstName": "Lars",
+            "lastName": "Urlich",
+            "address": "Mladena Fiolića 12 i",
+            "email": "lars@naruci.me",
+            "role": "OWNER",
+            "phone": "",
+            "gender": "Male",
+            "nickName": "Lars",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/RXIs8fhXoRUdQ2VriOS0P_000_Intercom.png"
+          }
+        },
+        {
+          "id": "13",
+          "name": "Mario Brada",
+          "code": "nikola.smircic2@gmail.com",
+          "firstName": "Mario",
+          "lastName": "Brada",
+          "email": "nikola.smircic2@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "Mario",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "67",
+              "name": "Kozmetičar"
+            }
+          ],
+          "user": {
+            "id": "29",
+            "firstName": "Buba",
+            "lastName": "Brada",
+            "address": null,
+            "email": null,
+            "role": "USER",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": null,
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/08k07AynfcU7pCnd1YOpE_003.PNG"
+          }
+        },
+        {
+          "id": "46",
+          "name": "Josip Barber",
+          "code": "nikola.smircic+01@gmail.com",
+          "firstName": "George",
+          "lastName": "Barber",
+          "email": "nikola.smircic+01@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "George",
+          "role": "ADMIN",
+          "color": "#FF974A",
+          "professions": [
+            {
+              "id": "96",
+              "name": "Barber"
+            }
+          ],
+          "user": {
+            "id": "93",
+            "firstName": "Anita",
+            "lastName": "Barber",
+            "address": "Mladena Fiolića 12",
+            "email": null,
+            "role": "ADMIN",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": "Joža",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/PQ1D0xnaUtwrC0vnGAAzm_009.PNG"
+          }
+        }
+      ],
+      "category": null
+    },
+    {
+      "id": "127",
+      "name": "Caffe bar ProfA",
+      "address": "Karlovačka cesta 169",
+      "city": "Zagreb",
+      "orgId": "cypress",
+      "imageUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/g0_ME2x7hhkkua-iyxW2H_Profa.jpg",
+      "description": "ProfA caffe & pub novouređeni je prostor za ugodna druženja uz širok izbor bezalkoholnih i alkoholnih pića.",
+      "workShifts": [
+        {
+          "name": "Jednokratno",
+          "openHours": [
+            {
+              "day": 0,
+              "dayName": "PONEDJELJAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 1,
+              "dayName": "UTORAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 2,
+              "dayName": "SRIJEDA",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 3,
+              "dayName": "ČETVRTAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 4,
+              "dayName": "PETAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 5,
+              "dayName": "SUBOTA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": false
+            },
+            {
+              "day": 6,
+              "dayName": "NEDJELJA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": true
+            }
+          ]
+        }
+      ],
+      "mobilePhone": "+385 99 4521 771",
+      "phone": "+23 077 266",
+      "email": "ivana@zoyya.com",
+      "zipCode": "10000",
+      "teamMembers": [
+        {
+          "id": "1",
+          "name": "Lars Urlich",
+          "code": "lars@naruci.me",
+          "firstName": "Lars",
+          "lastName": "Urlich",
+          "email": "lars@naruci.me",
+          "mobilePhone": "+385952000217",
+          "nickName": "Niccolo",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "66",
+              "name": "Frizer"
+            }
+          ],
+          "user": {
+            "id": "1",
+            "firstName": "Lars",
+            "lastName": "Urlich",
+            "address": "Mladena Fiolića 12 i",
+            "email": "lars@naruci.me",
+            "role": "OWNER",
+            "phone": "",
+            "gender": "Male",
+            "nickName": "Lars",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/RXIs8fhXoRUdQ2VriOS0P_000_Intercom.png"
+          }
+        },
+        {
+          "id": "13",
+          "name": "Mario Brada",
+          "code": "nikola.smircic2@gmail.com",
+          "firstName": "Mario",
+          "lastName": "Brada",
+          "email": "nikola.smircic2@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "Mario",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "67",
+              "name": "Kozmetičar"
+            }
+          ],
+          "user": {
+            "id": "29",
+            "firstName": "Buba",
+            "lastName": "Brada",
+            "address": null,
+            "email": null,
+            "role": "USER",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": null,
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/08k07AynfcU7pCnd1YOpE_003.PNG"
+          }
+        },
+        {
+          "id": "46",
+          "name": "Josip Barber",
+          "code": "nikola.smircic+01@gmail.com",
+          "firstName": "George",
+          "lastName": "Barber",
+          "email": "nikola.smircic+01@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "George",
+          "role": "ADMIN",
+          "color": "#FF974A",
+          "professions": [
+            {
+              "id": "96",
+              "name": "Barber"
+            }
+          ],
+          "user": {
+            "id": "93",
+            "firstName": "Anita",
+            "lastName": "Barber",
+            "address": "Mladena Fiolića 12",
+            "email": null,
+            "role": "ADMIN",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": "Joža",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/PQ1D0xnaUtwrC0vnGAAzm_009.PNG"
+          }
+        }
+      ],
+      "category": null
+    },
+    {
+      "id": "131",
+      "name": "Fianona",
+      "address": "Lanište 16",
+      "city": "Zagreb",
+      "orgId": "cypress",
+      "imageUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/rojVFbMWD1Wffh_OnSsL9_80201372_2684276784984286_5295697283013148672_n.jpg",
+      "description": "U vrhunski opremljenom prostoru želimo vam ponuditi odličan boravak zbog kojeg ćete se ponovno vraćati u mjesto najboljeg okusa!",
+      "workShifts": [
+        {
+          "name": "Jednokratno",
+          "openHours": [
+            {
+              "day": 0,
+              "dayName": "PONEDJELJAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 1,
+              "dayName": "UTORAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 2,
+              "dayName": "SRIJEDA",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 3,
+              "dayName": "ČETVRTAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 4,
+              "dayName": "PETAK",
+              "startTime": "08:00",
+              "endTime": "20:00",
+              "dayOff": false
+            },
+            {
+              "day": 5,
+              "dayName": "SUBOTA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": false
+            },
+            {
+              "day": 6,
+              "dayName": "NEDJELJA",
+              "startTime": "08:00",
+              "endTime": "16:00",
+              "dayOff": true
+            }
+          ]
+        }
+      ],
+      "mobilePhone": "+385 99 4521 771",
+      "phone": "+23 077 266",
+      "email": "ivana@zoyya.com",
+      "zipCode": "10000",
+      "teamMembers": [
+        {
+          "id": "1",
+          "name": "Lars Urlich",
+          "code": "lars@naruci.me",
+          "firstName": "Lars",
+          "lastName": "Urlich",
+          "email": "lars@naruci.me",
+          "mobilePhone": "+385952000217",
+          "nickName": "Niccolo",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "66",
+              "name": "Frizer"
+            }
+          ],
+          "user": {
+            "id": "1",
+            "firstName": "Lars",
+            "lastName": "Urlich",
+            "address": "Mladena Fiolića 12 i",
+            "email": "lars@naruci.me",
+            "role": "OWNER",
+            "phone": "",
+            "gender": "Male",
+            "nickName": "Lars",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/graph/api/avatar/RXIs8fhXoRUdQ2VriOS0P_000_Intercom.png"
+          }
+        },
+        {
+          "id": "13",
+          "name": "Mario Brada",
+          "code": "nikola.smircic2@gmail.com",
+          "firstName": "Mario",
+          "lastName": "Brada",
+          "email": "nikola.smircic2@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "Mario",
+          "role": "ADMIN",
+          "color": "#4D7CFE",
+          "professions": [
+            {
+              "id": "67",
+              "name": "Kozmetičar"
+            }
+          ],
+          "user": {
+            "id": "29",
+            "firstName": "Buba",
+            "lastName": "Brada",
+            "address": null,
+            "email": null,
+            "role": "USER",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": null,
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/08k07AynfcU7pCnd1YOpE_003.PNG"
+          }
+        },
+        {
+          "id": "46",
+          "name": "Josip Barber",
+          "code": "nikola.smircic+01@gmail.com",
+          "firstName": "George",
+          "lastName": "Barber",
+          "email": "nikola.smircic+01@gmail.com",
+          "mobilePhone": "+385952000217",
+          "nickName": "George",
+          "role": "ADMIN",
+          "color": "#FF974A",
+          "professions": [
+            {
+              "id": "96",
+              "name": "Barber"
+            }
+          ],
+          "user": {
+            "id": "93",
+            "firstName": "Anita",
+            "lastName": "Barber",
+            "address": "Mladena Fiolića 12",
+            "email": null,
+            "role": "ADMIN",
+            "phone": "+385952000217",
+            "gender": "Unspecified",
+            "nickName": "Joža",
+            "avatarUrl": "https://narucime-dev.azurewebsites.net/api/avatar/PQ1D0xnaUtwrC0vnGAAzm_009.PNG"
+          }
+        }
+      ],
+      "category": null
+    }
+  ]
