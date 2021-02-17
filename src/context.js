@@ -22,10 +22,10 @@ const AppProvider = ({ children }) => {
       // const {filtered_locations} = data;
       if(data){
         const newLocations = data.map((item)=>{
-          const {id,name,imageUrl,address,category} = item
+          const {id,name,imageUrl,address,city,category} = item
           return {
             id:id,name:name,image:imageUrl,
-            address:address,category:category
+            address:address+', '+city,category:category
           }
         })
         setLocations(newLocations)

@@ -238,11 +238,11 @@ Locations List
 }
 /* 
 ====== 
-Cocktail 
+Location
 ======
 */
 
-.cocktail {
+.location {
   background: var(--mainWhite);
   margin-bottom: 2rem;
   box-shadow: var(--lightShadow);
@@ -251,27 +251,27 @@ Cocktail
   grid-template-rows: auto 1fr;
   border-radius: var(--mainBorderRadius);
 }
-.cocktail:hover {
+.location:hover {
   box-shadow: var(--darkShadow);
 }
-.cocktail img {
+.location img {
   height: 20rem;
   object-fit: cover;
   border-top-left-radius: var(--mainBorderRadius);
   border-top-right-radius: var(--mainBorderRadius);
 }
-.cocktail-footer {
+.location-footer {
   padding: 1.5rem;
 }
-.cocktail-footer h3,
-.cocktail-footer h4,
-.cocktail-footer p {
+.location-footer h3,
+.location-footer h4,
+.location-footer p {
   margin-bottom: 0.3rem;
 }
-.cocktail-footer h3 {
+.location-footer h3 {
   font-size: 2rem;
 }
-.cocktail-footer p {
+.location-footer p {
   color: var(--darkGrey);
   margin-bottom: 0.5rem;
 }
@@ -314,11 +314,11 @@ Form
 }
 /* 
 ====== 
-Cocktail
+Location
 ======
 */
 
-.cocktail-section {
+.location-section {
   text-align: center;
 }
 .drink {
