@@ -317,6 +317,10 @@ Form
 Location
 ======
 */
+.animate a:hover {
+  box-shadow: 0 80px 3px #515151 !important;
+}
+
 .row {
   overflow-x:none;
   white-space:nowrap; 

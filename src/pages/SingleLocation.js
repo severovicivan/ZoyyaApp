@@ -96,11 +96,14 @@ const SingleLocation = () => {
       </div>
       <section className="prored">
         <h1 className="section-title">Naš tim</h1>
-        <ul className="row">
+        <ul>
         {(location.teamMembers).map(member =>
-          <li className="column">
-              <Avatar size="100" round={true}
-              src={member.user.avatarUrl}/>
+          <li className="column animate">
+              <a href={`mailto:${member.email}
+              ?subject=Rezervacija%20termina`}>
+                <Avatar size="100" round={true}
+                src={member.user.avatarUrl}/>
+              </a>
           </li>
             )}
         </ul>
