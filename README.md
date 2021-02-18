@@ -7,7 +7,7 @@
 ## Getting started
 
 1. Install [Node.js](https://nodejs.org/en/) 
-2. Clone this repo: `git clone git@github.com:ZoyyaApp/zoyya-code-exercise.git`
+2. If you want to try this exercise for yourself clone this repo: `git clone git@github.com:ZoyyaApp/zoyya-code-exercise.git` (In my exercise I have used just three additional packages: `react-router-dom`, `react-avatar` and `prop-types`).
 3. Install dependencies: `cd zoyya-code-exercise && npm install`
 4. Start the app with `npm start`
 
