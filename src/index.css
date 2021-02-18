@@ -317,6 +317,21 @@ Form
 Location
 ======
 */
+.row {
+  overflow-x:none;
+  white-space:nowrap; 
+  height: 7.5em;
+  width: 100%;
+}
+
+.column {
+  display:inline; 
+  padding-right: 1em;
+}
+
+.prored {
+  margin-top: 3em;
+}
 
 a:hover {
   color: var(--primaryColor);

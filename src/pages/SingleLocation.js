@@ -2,6 +2,7 @@ import React from 'react'
 import Loading from '../components/Loading'
 import { useParams, Link } from 'react-router-dom'
 import all_locations from '../database/locations.json'
+import Avatar from 'react-avatar'
 
 const SingleLocation = () => {
   const {id} = useParams();
@@ -69,7 +70,6 @@ const SingleLocation = () => {
           </p>
           <p>
             <span className="place-data">Adresa:</span>
-            {/* http://maps.google.com/?q=Biankinijeva ul. 13, Zagreb, 10000 */}
             <a href={`http://maps.google.com/?q=
             ${location.address},
             ${location.zipCode},
@@ -94,6 +94,17 @@ const SingleLocation = () => {
           </p>
         </div>
       </div>
+      <section className="prored">
+        <h1 className="section-title">Naš tim</h1>
+        <ul className="row">
+        {(location.teamMembers).map(member =>
+          <li className="column">
+              <Avatar size="100" round={true}
+              src={member.user.avatarUrl}/>
+          </li>
+            )}
+        </ul>
+      </section>
     </section>
   )
 }
